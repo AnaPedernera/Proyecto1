@@ -5,7 +5,9 @@
 	</head>
 	<body>
 	<?php
-	
+	 class auto{
+		 
+	 }
 	?>
 	</body>
 </html>
