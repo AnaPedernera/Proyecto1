@@ -6,7 +6,7 @@
 	<body>
 	<?php
 	 class auto{
-		 
+		// se completa clase auto
 	 }
 	?>
 	</body>
