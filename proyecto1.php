@@ -7,8 +7,9 @@
 	<?php
 
 	class auto{
-		
+
 		// se completa clase auto y se soluciona bug 1
+		//se agrega nuevo comentario
 	}
 
 	?>
