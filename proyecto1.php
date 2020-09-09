@@ -11,6 +11,7 @@
 		// se completa clase auto y se soluciona bug 1
 		//se agrega nuevo comentario
 	}
+	//nuevo cambio local que voy a subir a remoto
 
 	?>
 	</body>
