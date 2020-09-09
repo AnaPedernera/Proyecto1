@@ -12,7 +12,7 @@
 		//se agrega nuevo comentario
 	}
 	//nuevo cambio local que voy a subir a remoto
-
+	// se agrega alguna funcion
 	?>
 	</body>
 </html>
