@@ -5,9 +5,12 @@
 	</head>
 	<body>
 	<?php
-	 class auto{
-		// se completa clase auto
-	 }
+
+	class auto{
+		
+		// se completa clase auto y se soluciona bug 1
+	}
+
 	?>
 	</body>
 </html>
